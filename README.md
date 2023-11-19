@@ -6,5 +6,5 @@ The finsihed application can be found <a href="https://psiko23.github.io/Work-Da
 
 ## Website preview
 
-<img src="Assets\127.0.0.1_5500_Develop_index.html.png">
+<img src="./Assets/127.0.0.1_5500_Develop_index.html.png">
 
